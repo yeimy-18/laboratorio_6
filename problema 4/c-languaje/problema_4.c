@@ -23,7 +23,7 @@ int main() {
         case 2:
             n_2++;
             break;
-        case 3:
+        case 3: 
             n_3++;
             break;
         case 4:
